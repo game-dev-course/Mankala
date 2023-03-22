@@ -114,7 +114,9 @@
 ![111111](https://user-images.githubusercontent.com/74298257/226775833-5f93e17d-a4c3-4119-8c49-b3e88780a526.png)
  ![111111](https://user-images.githubusercontent.com/74298257/226776011-fcd52002-0149-4694-90ad-0692f90ecf87.png)
 ![111111](https://user-images.githubusercontent.com/74298257/226776165-dd00c073-e805-4cf2-9bde-9ea239c9888a.png)
-
+https://play.google.com/store/apps/details?id=com.alignit.mancala&hl=iw
+ https://play.google.com/store/apps/details?id=com.appon.mancala&hl=iw
+ https://play.google.com/store/apps/details?id=com.water.mancalabestboardgame&hl=iw
  
 המשחק שלנו יוסיף אםשרות קוסטמיזציהף, וELO לשחקנים מה שאין במשחקים לעיל וימשוך על פי יותר אנשים לדעתי כי זה מוסיך את עניין את התחרות וכשאנשים מוצאים משהו שהם יכולים אלמר שהם  יותר טובים ושים על זה תווית (דירוג ELO למשל הוא תווית לכמה טוב אתה) הם ישחקו וימשיכו להשתפר עניין העיצוב מביא פאן חמוד נוסף שנותן לשחקן לעצב את הלוח כיצד שירצה 
 </div>
