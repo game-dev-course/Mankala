@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class hole_press : MonoBehaviour
 {
+    //where in the array
     public int x_val = 0;
     public int y_val = 0;
     public int size = 0;
