@@ -1,3 +1,6 @@
+# mankala
+
+
 [GitHub](https://github.com/game-dev-course/Mankala/blob/main/formal-elements.md)
 
 
